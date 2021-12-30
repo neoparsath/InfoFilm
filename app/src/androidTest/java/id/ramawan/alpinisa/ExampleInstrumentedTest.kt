@@ -1,4 +1,4 @@
-package id.isaalpin.infofilm
+package id.ramawan.alpinisa
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
